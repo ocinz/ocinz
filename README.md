@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Mate 👋
 
 <!--
 **ocinz/ocinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning Next Js and Ruby on Rails
+📫 How to reach me: 
+    WA    : +62 8516 3027 335
+    Email : ahmadhafid28632@gmail.com
