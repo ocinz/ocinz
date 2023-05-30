@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 I’m currently learning Next Js and Ruby on Rails
-📫 How to reach me: 
-    WA    : +62 8516 3027 335\n
-    Email : ahmadhafid28632@gmail.com\n
-    [LinkedIn](https://www.linkedin.com/in/ahmad-hafid-8261b9204/)
+- 📫 How to reach me: 
+-    WA    : +62 8516 3027 335\n
+-    Email : ahmadhafid28632@gmail.com\n
+-    [LinkedIn](https://www.linkedin.com/in/ahmad-hafid-8261b9204/)
