@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning Next Js and Ruby on Rails
 # 📫 How to reach me: <br>
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(https://wa.me/6285163027335) 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(ahmadhafid28632@gmail.com) 
+ 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ahmad-hafid-8261b9204/)
    
