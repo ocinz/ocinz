@@ -1,4 +1,4 @@
-Hello World 👋
+Hello World 👋 <br>
 My Name is Ahmad Hafid, a Front End Developer
 <!--
 **ocinz/ocinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 
 
 ## 🌱 I’m currently learning Next Js and Ruby on Rails
-# 📫 How to reach me: <br>
+## 📫 How to reach me: <br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6285163027335) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hafid-8261b9204/)
+
+## ⚡ Fun fact:
+I'm a undergradutae student in Mechanical Engineering
    
