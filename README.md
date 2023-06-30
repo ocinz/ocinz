@@ -43,4 +43,6 @@ Here are some ideas to get you started:
 
 ## ⚡ Fun fact:
 I'm a undergradutae student in Mechanical Engineering
-   
+
+## Portofolio
+https://www.canva.com/design/DAFnS6CHYJk/V6bTsRXSQNRSKe3AyAWP2Q/edit?utm_content=DAFnS6CHYJk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
