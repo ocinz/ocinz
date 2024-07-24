@@ -1,22 +1,7 @@
-### Hello World 👋 <br>
-# People call me Ocinz, a Front End Developer
-&nbsp;&nbsp;&nbsp;&nbsp; I am a front end web developer, competent in using tools like React JS, Tailwind CSS and Typescript. I can also use some backend tools such as Express JS, Ruby on Rails, MySQL. I also really like to explore something new, especially in the tech field.<br>
+# Hello World 👋 <br>
+## About me
+&nbsp;&nbsp;&nbsp;&nbsp; I am a web developer, competent in using tools like React JS, Next JS, Typescript for Frontend and Express JS, Laravel, Sring Boot for Backend. I also really like to explore something new, especially in the tech field.<br>
 &nbsp;&nbsp;&nbsp;&nbsp; I am a straight-forward professional and I believe that end-goal is the most important thing at work. In a team setting, I try to encourage my colleagues to move forward together so when we face issues, we can solve it better as a team. I am known to have active communication, especially when there is an opportunity to discuss improvements or issues. At the same time, I am calm in my interactions and do not stress easily over difficult challenges.
-
-<!--
-**ocinz/ocinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 💻 Tech Stack: <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -37,12 +22,12 @@ Here are some ideas to get you started:
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 
-## 🌱 I’m currently learning Next Js and Ruby on Rails
+## 🌱 I’m currently interested to Machine Learning
 ## 📫 How to reach me: <br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6285163027335) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hafid-8261b9204/)
 
 ## ⚡ Fun fact:
-I'm a undergradutae student in Mechanical Engineering
+I'm not a computer science student, i am a student in Mechanical Engineering
 
 ## Portofolio
 https://www.canva.com/design/DAFnS6CHYJk/V6bTsRXSQNRSKe3AyAWP2Q/edit?utm_content=DAFnS6CHYJk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
